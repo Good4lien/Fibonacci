@@ -5,7 +5,7 @@ commonly denoted Fn , form a sequence, the Fibonacci sequence, in which each n
 and
 ![image](https://user-images.githubusercontent.com/54048747/222347688-4ceb1a5e-2881-48dd-b769-cbd552445051.png)
 for n > 1.
-
+Under some older definitions, the value
 
 
 ### Code:
