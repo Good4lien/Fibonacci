@@ -6,6 +6,17 @@ Fibonacci numbers, commonly denoted Fn , form a sequence, the Fibonacci sequen
 ![image](https://user-images.githubusercontent.com/54048747/222347688-4ceb1a5e-2881-48dd-b769-cbd552445051.png)
 <br>for n > 1.<br>
 Under some older definitions, the value
+![image](https://user-images.githubusercontent.com/54048747/222348722-bb99af68-4be4-4cb0-a7fd-d9797b6003dc.png)
+is omitted, so that the sequence starts with
+![image](https://user-images.githubusercontent.com/54048747/222348775-1f500496-671a-49dc-8f85-b3ba0a7c4e7d.png)
+and the recurrence
+![image](https://user-images.githubusercontent.com/54048747/222348823-7a116292-8e83-4760-9710-416249dd2575.png)
+is valid for n > 2.<br>
+
+##### The first 20 Fibonacci numbers Fn are:
+
+![4](https://user-images.githubusercontent.com/54048747/222349013-372c2bc8-c1ce-4f38-a7e0-e5a636af25fe.JPG)
+
 
 
 ### Code:
