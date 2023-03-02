@@ -4,7 +4,7 @@ Fibonacci numbers, commonly denoted Fn , form a sequence, the Fibonacci sequen
 ![image](https://user-images.githubusercontent.com/54048747/222347638-f7c9bf27-de76-46b9-a358-a8bde12ebcb6.png)
 <br>and<br><br>
 ![image](https://user-images.githubusercontent.com/54048747/222347688-4ceb1a5e-2881-48dd-b769-cbd552445051.png)
-for n > 1.<br>
+<br>for n > 1.<br>
 Under some older definitions, the value
 
 
