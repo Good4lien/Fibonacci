@@ -23,6 +23,15 @@ is valid for n > 2.<br>
 ## Here is my python code
 
 ### Code:
+n1=0
+    n2=1
+    print(0,n1)
+    print(1,n2)
+    for i in range(2,100):
+        n=n1+n2
+        print(i,n)
+        n1=n2
+        n2=n
 ![1](https://user-images.githubusercontent.com/54048747/222346136-01ac1b8e-aac1-4fe4-8887-714b7393ac2f.JPG)
 
 ### Resoult:
